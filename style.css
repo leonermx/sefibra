@@ -1202,7 +1202,7 @@ ul.business-nav li.dropdown a i{
     overflow: hidden;
     display: block;
 }
-.filtr-item img{
+.filtr-item img{  
     height: 245px;
     width: 100%;
     object-fit: cover;

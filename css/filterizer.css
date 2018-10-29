@@ -15,16 +15,17 @@
 }
 /* Filter controls */
 .simplefilter li, .multifilter li, .sortandshuffle li {
-    color: #033d75;
+    color: #d6d6d6;
     cursor: pointer;
     display: inline-block;
     text-transform: uppercase;
-    padding: 10px 20px;
+    padding: 10px 10px;
+    margin: 5px 5px;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 12px;
 }
 .simplefilter li {
-    background-color: #fff;
+    background-color: #1b6294;
 }
 .simplefilter li.active {
     background-color: #ef454d;
