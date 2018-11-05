@@ -261,7 +261,7 @@
 						<div class="app-present-right-2">
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><a href="servicios-integrales.html"><i class="fa fa-circle"></i></a></span>
+								  <span class="animatedhover pulse"><a href="servicios-integrales.php"><i class="fa fa-circle"></i></a></span>
 								  <div class="media-body">
 									<h2>SERVICIOS INTEGRALES</h2>
 									<p>Estos servicios consisten en el análisis técnico exhaustivo para implementar, ampliar o adecuar las redes de trabajo y aplicaciones para las organizaciones..</p>
@@ -325,7 +325,7 @@
 							  <div class="media-body">
 								<h5>Telefonía IP</h5>
 								<p>Terminales, Conmutadores, Racks y Accesorios.</p>
-								<a href="telefoniaip.html">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="telefoniaip.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
