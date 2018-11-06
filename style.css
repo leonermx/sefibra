@@ -35,6 +35,10 @@ body {
 	margin: 0;	
 	display: none;
 }
+.icono-footer  {
+    color: #ffffff !important;
+    font-size: 90%;
+}
 
 article,
 aside,
@@ -1510,6 +1514,7 @@ figure:hover {
 	color: #f1f1f1;
 	padding-top: 70px;
 }
+
 .bussiness-footer-address img{
 	max-width: 170px;
 	margin-bottom: 40px;
@@ -1518,16 +1523,19 @@ figure:hover {
 	margin-bottom: 10px;
 }
 .bussiness-footer-address i{
-    margin-right: 15px;
+    margin-right: 7px;
+    color: #f1f1f1;
+}
+.bussiness-footer-address a{
+    margin-right: 10px;
+    color: #f1f1f1;
 }
 .bussiness-footer-content h5{
 	font-size: 17px;
 	font-weight: 700;
 	text-transform: uppercase;	
 }
-bussiness-footer-content i{
-	color: #f1f1f1;
-}
+
 .bussiness-footer-content ul{
     list-style: none;
     margin-top: 30px;

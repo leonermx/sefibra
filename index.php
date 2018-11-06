@@ -10,6 +10,8 @@
     <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
     <!-- Google fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,400,400i,500,500i,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 	
 	
 	<!-- Bootstrap -->

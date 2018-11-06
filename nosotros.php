@@ -11,7 +11,10 @@
     <!-- Google fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,400,400i,500,500i,700" rel="stylesheet">
 	
-	
+
+
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 	<!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- Fontawsome -->
@@ -149,7 +152,7 @@
                         
                         
                         <div class="company-help-box text-center">
-                            <h3>How can we help you?</h3>
+                            <h3>¿Cómo podemos ayudarte?</h3>
                             <p>It is long established fact that a reader will be distrpxd acted pthe readable content of page when looking itsdr layout now. The point using Lorem Ipsum is that it distribution.</p>
                             <a href="#" class="bussiness-btn-larg">Contact Us</a>
                         </div>
