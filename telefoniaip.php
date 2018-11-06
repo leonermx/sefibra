@@ -90,6 +90,7 @@
                                     
                                     <li> <strong>Contact:</strong> <span> +01 234 567 789 </span> </li>
                                     <li> <strong>Blog:</strong> <span> <a href="#">www.michelblog.com </a></span> </li>
+                                    
                                 </ul>
                             </div>                            
                         </div>       
