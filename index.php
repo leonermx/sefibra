@@ -76,7 +76,7 @@
 							<div class="overlay-text text-left">						
 								
 								<h2 data-animation-in="slideInDown" data-animation-out="animate-out slideOutUp">
-									BIENVENIDO A LA NUEVA ERA DE LAC COMUNICACIONES</h2>
+									BIENVENIDO A LA NUEVA ERA DE LAS COMUNICACIONES</h2>
 								<p data-animation-in="slideInLeft" data-animation-out="animate-out fadeOut">EQUIPANDO EL FUTURO</p>
 								<a href="#" class="bussiness-btn-larg"  data-animation-in="slideInUp" data-animation-out="animate-out slideOutDown">Somos tu mejor opción...</a>
 							</div>
