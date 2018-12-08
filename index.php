@@ -343,7 +343,7 @@
 							  <div class="media-body">
 								<h5>CONFERENCE CALL</h5>
 								<p>Videoconferencia, Teleconferencia y Video Streaming.</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="conferencecall.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -358,7 +358,7 @@
 							  <div class="media-body">
 								<h5>SISTEMAS DE SEGURIDAD</h5>
 								<p>CCTV, Control de acceso, Megafonía y Alarmas.</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="sistemasseguridad.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -373,7 +373,7 @@
 							  <div class="media-body">
 								<h5>SISTEMAS DE ENTRETENIMIENTO</h5>
 								<p>Audio, Video, Energía e Iluminación.</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="sistemasentretenimiento.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -388,7 +388,7 @@
 							  <div class="media-body">
 								<h5>COMUNICACIONES ESPECIALIZADAS</h5>
 								<p>Sistemas satelitales, torres VHF, UHF y Grounding.</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="comunicacionesespecializadas.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -403,7 +403,7 @@
 							  <div class="media-body">
 								<h5>EQUIPOS DE COMPUTO Y CONSUMIBLES</h5>
 								<p>PCs, Laptops, Impresoras, Tablets, UPS y No-Breaks..</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="equiposdecomputo.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -418,7 +418,7 @@
 							  <div class="media-body">
 								<h5>MOBILIARIO Y EQUIPO MÉDICO</h5>
 								<p>Sistema paciente-enfermera, Work stations, Carritos para hospital.</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="mobiliario.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -433,7 +433,7 @@
 							  <div class="media-body">
 								<h5>SISTEMAS DE SEGURIDAD Y CONTROL DE ACCESO</h5>
 								<p>Vigilancia, control de acceso..</p>
-								<a href="#">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="controldeacceso.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
