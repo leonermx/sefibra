@@ -273,7 +273,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><i class="fa fa-share"></i></span>
+								  <span class="animatedhover pulse"><a href="redesymantenimiento.php"><i class="fa fa-share"></i></a></span>
 								  <div class="media-body">
 									<h2>REDES Y TELECOMUNICACIONES</h2>
 									<p>Solución idónea para movilidad, ya que reduce los costos de cableado y alcanza velocidades de transmisión similares al par trenzado y fibra óptica.</p>
@@ -282,7 +282,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><i class="fa fa-lock"></i></span>
+								  <span class="animatedhover pulse"><a href="datacenteryseguridad.php"><i class="fa fa-lock"></i></a></span>
 								  <div class="media-body">
 									<h2>DATA CENTER Y SEGURIDAD</h2>
 									<p>Contamos con servidores de alto rendimiento en las marcas más reconocidas en el mercado y un staff de técnicos calificados en las plataformas más usadas en la industria de TI.</p>
@@ -291,7 +291,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><i class="fa fa-wrench"></i></span>
+								  <span class="animatedhover pulse"><a href="mantenimientoyacondicionamiento.php"><i class="fa fa-wrench"></i></a></span>
 								  <div class="media-body">
 									<h2>MANTENIMIENTO Y ACONDICIONAMIENTO</h2>
 									<p>Nos especializamos en proyectos de TI alineados con sus necesidades específicas, comenzando desde la detección de sus objetivos de negocio, hasta la operación total con niveles de servicio.</p>
