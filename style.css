@@ -35,6 +35,8 @@ body {
 	margin: 0;	
 	display: none;
 }
+
+
 .icono-footer  {
     color: #ffffff !important;
     font-size: 90%;
@@ -128,7 +130,7 @@ sub {
 img {
 	border: 0;
 	  width:100%;
-  max-width:100%;
+  
 }
 
 svg:not(:root) {
@@ -275,7 +277,7 @@ dfn,
 cite,
 em,
 i {
-	font-style: italic;
+	font-style: italic;n
 }
 
 blockquote {
@@ -418,6 +420,8 @@ dd {
 img {
 	height: auto; /* Make sure images are scaled correctly. */
 	max-width: 100%; /* Adhere to container width. */
+}
+.maximo {max-width: 30px !important; 
 }
 
 figure {
@@ -3322,6 +3326,8 @@ span.highlight {
     border-bottom: 1px solid #fff;
     padding: 10px 0;
 }
+
+
 .project-quick-info ul li:last-child{
     border-bottom: 0;
 }

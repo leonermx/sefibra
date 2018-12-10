@@ -53,7 +53,7 @@
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
-                        <h3>Servicios Integrales</h3>
+                        <h3>Switching & Routing</h3>
                         
                     </div>
                 </div>

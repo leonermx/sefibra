@@ -53,7 +53,7 @@
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
-                        <h3>Servicios Integrales</h3>
+                        <h3>Canalización, cableado, estructurado y fibra óptica</h3>
                         
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                                 <ul>
                                     <li> <strong>Materiales:</strong> <span> Material</span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <span> <a href="#">Fibroin </a></span> </li>
+                                    <li> <strong>Marcas:</strong> <img src="images/services/cableado-marca.jpg" class="maximo"> </li>
                                     <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
                                 </ul>
                             </div>                            
@@ -96,26 +96,27 @@
                         <div class="col-md-12">
                             <div class="project-details">                                               
                                 <h2>Detalles</h2>                        
-                                <p>It is a long established fact that a reader will be distracted by the readable content of page when looking atits layout. The point of using Lorem Ipsum is that it has more-or-less normal distribution of letters,opposed tousing 'Contenthp here, content here', making it look like readable English. Many desktop publishing packages and web page editorskp now. </p>
+                                <p>Especialistas en diseño e implementación de canalización, cableado estructurado y fibra óptica: nodos, distribución horizontal y vertical en edificios, oficinas, comercios, industria y escuelas: 
+</p>
                             </div>  
                         </div> 
                         <div class="col-md-6">
                             <div class="mission-right">
                                 <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                 
+										<li>Instalación de puntos de voz y datos según los estándares de la norma ANSI/TIA/EIA.</li>                                  
+										<li>Instalación de enlace UTP y fibra óptica.</li>                                  
+										<li>Empalme, conectorización y certificación de fibra óptica.</li>                                  
+										<li>Certificación de redes en cobre y fibra óptica.</li>                                 
                                 </ul>
                             </div>
                         </div>
                         <div class="col-md-6">				           		                      
                             <div class="mission-right">
                                 <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                   
+										<li>Análisis de protección eléctrica. </li>                                  
+										<li>Sistema y Mantenimiento de puesta a tierra.</li>                                  
+										<li>Instalaciones de sistemas y circuitos eléctricos.</li>                                  
+										                                 
                                 </ul>
                             </div>
                         </div>
