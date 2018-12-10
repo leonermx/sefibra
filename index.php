@@ -140,6 +140,7 @@
 					<div class="col-md-12">
 						<div class="business-title-middle">
 							<h2>SOLUCIONES A TU ALCANCE</h2>
+							<h3>Somos una empresa 100% mexicana proveedora de soluciones en Tecnologías de la Información y Comunicaciones, de las marcas más importantes y certificadas a nivel mundial.</h3>
 							<span class="title-border-middle"></span>
 						</div>
 					</div>
@@ -200,43 +201,7 @@
 		</div>
 	</div>      
    
-	<div class="padding-top-large"></div>
-	
-	<div class="business-features-3x">	
-		<div class="colourful-features-content">				
-			<div class="row">					
-				<div class="col-md-3 no-padding">				
-					<div class="single-colorful-feature feature-color-1">
-						<h3>01.</h3>
-						<h2>ESPECIAL</h2>
-						<p>At vero eos et accusamus ehdf iusto dignissimos ducimused qughi blakrn ditiis praesentium voluptatum .</p>	
-					</div>									
-				</div>					
-				<div class="col-md-3 no-padding">				
-					<div class="single-colorful-feature feature-color-2">
-						<h3>02.</h3>
-						<h2>ESPECIAL</h2>
-						<p>At vero eos et accusamus ehdf iusto dignissimos ducimused qughi blakrn ditiis praesentium voluptatum .</p>	
-					</div>									
-				</div>					
-				<div class="col-md-3 no-padding">				
-					<div class="single-colorful-feature feature-color-3">
-						<h3>03.</h3>
-						<h2>ESPECIAL</h2>
-						<p>At vero eos et accusamus ehdf iusto dignissimos ducimused qughi blakrn ditiis praesentium voluptatum .</p>	
-					</div>									
-				</div>					
-				<div class="col-md-3 no-padding">				
-					<div class="single-colorful-feature feature-color-4">
-						<h3>04.</h3>
-						<h2>ESPECIAL</h2>
-						<p>At vero eos et accusamus ehdf iusto dignissimos ducimused qughi blakrn ditiis praesentium voluptatum .</p>	
-					</div>									
-				</div>
-				
-			</div>		
-		</div>
-	</div>
+
       
     <div class="padding-top-large"></div>
 	
@@ -321,7 +286,7 @@
 						</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-4.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/telefonia-ip.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/target.png" alt="Generic placeholder image">
@@ -336,7 +301,7 @@
 				</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-2.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/conference-call.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/analysis.png" alt="Generic placeholder image">
@@ -351,7 +316,7 @@
 				</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/sistemas-de-seguridad.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">
@@ -366,7 +331,7 @@
 				</div>
 				<div class="col-md-6">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/entretenimiento.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">
@@ -381,7 +346,7 @@
 				</div>
 				<div class="col-md-6">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/antena-satelital.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">
@@ -396,7 +361,7 @@
 				</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/equipo-de-computo.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">
@@ -411,7 +376,7 @@
 				</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/equipo-medico.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">
@@ -426,7 +391,7 @@
 				</div>
 				<div class="col-md-4">										
 					<div class="single-service-2 hvrbox">
-						<img src="images/blog-3.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+						<img src="images/home/control-de-acceso.jpg" alt="Mountains" class="hvrbox-layer_bottom">
 						<div class="hvrbox-layer_top hvrbox-layer_slideup">
 							<div class="media">
 							  <img class="mr-3" src="images/icon/insight.png" alt="Generic placeholder image">

@@ -49,7 +49,7 @@
      
 	<div class="business-banner">           			
         <div class="hvrbox">
-            <img src="images/slider-24.jpg" alt="Mountains" class="hvrbox-layer_bottom">
+            <img src="images/slider-18.png" alt="Conference call" class="hvrbox-layer_bottom">
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
@@ -84,16 +84,15 @@
                         <div class="col-md-8">
                             <div class="project-quick-info">
                                 <ul>
-                                    <li> <strong>Michale John</strong><br>Finance Advisor of Consuma Ltd  </li>                                
-                                    <li> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. </li>
-                                    <li> <strong>Email:</strong> <span> Michale.John@email.com </span> </li>
+                                    <li> </li>                                
+                                    <li> Gracias a esta tecnología, además de establecer llamadas desde aparatos telefónicos, también en una múltiple diversidad de dispositivos con acceso a internet o una red: PC´s, Laptops, Tabletas, Smartphones, entre otros. </li>
+                                    <li>  <img src="images/products/conference-call.jpg" alt="Msrca">  </li>
                                     
-                                    <li> <strong>Contact:</strong> <span> +01 234 567 789 </span> </li>
-                                    <li> <strong>Blog:</strong> <span> <a href="#">www.michelblog.com </a></span> </li>
+                                    
                                     
                                 </ul>
                             </div>                            
-                        </div>       
+                        </div>        
                        
                         
                     </div>

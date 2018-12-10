@@ -122,7 +122,9 @@ sup {
 sup {
 	top: -0.5em;
 }
-
+.padding-image {
+    padding: 40% !important;
+}
 sub {
 	bottom: -0.25em;
 }
@@ -3316,7 +3318,7 @@ span.highlight {
 .project-quick-info{
     padding: 30px;
     background: #f2f2f2;
-    height: 400px;
+    height:auto;
 }
 .project-quick-info ul{
     padding: 0;
