@@ -121,7 +121,7 @@
 											<div class="timeline-body">
 												<img src="images/blog-2.jpg" class="img-fluid" alt="Image 2">
 												<h4>2015 FUNDACIÓN</h4>
-												<p>SMARTCOMS Nace en 2015 como una propuesta para generar productos y servicios innovadores en el mercado de las comunicaciones, lo que nos hace una empresa competitiva para afrontar los retos que plantea la Sociedad de la Información y el Conocimiento. Con una experiencia de más de 5 años en el sector de las comunicaciones.</p>
+												<p>SEFIBRA Nace en 2015 como una propuesta para generar productos y servicios innovadores en el mercado de las comunicaciones, lo que nos hace una empresa competitiva para afrontar los retos que plantea la Sociedad de la Información y el Conocimiento. Con una experiencia de más de 5 años en el sector de las comunicaciones.</p>
 											</div>
 										</div>
 									</li>
@@ -153,8 +153,8 @@
                         
                         <div class="company-help-box text-center">
                             <h3>¿Cómo podemos ayudarte?</h3>
-                            <p>It is long established fact that a reader will be distrpxd acted pthe readable content of page when looking itsdr layout now. The point using Lorem Ipsum is that it distribution.</p>
-                            <a href="#" class="bussiness-btn-larg">Contact Us</a>
+                            <p>Establecemos comunicación efectiva con nuestros clientes, conocemos sus necesidades presentes y futuras, damos atención especializada y generamos valor a su modelo de negocio en un marco de mejora continua</p>
+                           
                         </div>
                         
                         <div class="padding-top-middle"></div>

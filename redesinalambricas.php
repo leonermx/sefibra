@@ -53,7 +53,7 @@
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
-                        <h3>Servicios Integrales</h3>
+                        <h3>Redes inalámbricas</h3>
                         
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="project-img">
-                                <img src="images/bg-3.jpg" alt="Logo"> 
+                                <img src="images/services/inalambrica.jpg" alt="Logo"> 
                             </div> 
                         </div> 
                         <div class="col-md-4">
@@ -78,11 +78,12 @@
                                 <ul>
                                     <li> <strong>Materiales:</strong> <span> Material</span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <span> <a href="#">Fibroin </a></span> </li>
+                                    <li> <strong>Marcas:</strong> <img class="modernito" 
+                                    ++ src="images/services/tplink.jpg" class="maximo"> </li>
                                     <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
                                 </ul>
                             </div>                            
-                        </div>       
+                        </div>    
                         
                         
  
@@ -96,29 +97,19 @@
                         <div class="col-md-12">
                             <div class="project-details">                                               
                                 <h2>Detalles</h2>                        
-                                <p>It is a long established fact that a reader will be distracted by the readable content of page when looking atits layout. The point of using Lorem Ipsum is that it has more-or-less normal distribution of letters,opposed tousing 'Contenthp here, content here', making it look like readable English. Many desktop publishing packages and web page editorskp now. </p>
+                                <p>Solución idónea para movilidad, ya que reduce los costos de cableado y alcanza velocidades de transmisión similares al par trenzado y fibra óptica </p>
                             </div>  
                         </div> 
                         <div class="col-md-6">
                             <div class="mission-right">
                                 <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                 
+										<li>Redes WiFi en sus diferentes bandas de frecuencia 2.4 GHz y 5 GHz y sus estándares que las rigen 802.11a/b/g/n 802.11ac entre otros. </li>                                  
+										<li>Redes LAN comúnmente conocidas como WLAN (Wireless LAN).</li>                                  
+									                             
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6">				           		                      
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                   
-                                </ul>
-                            </div>
-                        </div>
+                        
                     </div>
                     
                 </div>

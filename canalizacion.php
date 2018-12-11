@@ -70,7 +70,7 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="project-img">
-                                <img src="images/bg-3.jpg" alt="Logo"> 
+                                <img src="images/services/cableado.jpg" alt="Logo"> 
                             </div> 
                         </div> 
                         <div class="col-md-4">
@@ -78,7 +78,8 @@
                                 <ul>
                                     <li> <strong>Materiales:</strong> <span> Material</span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <img src="images/services/cableado-marca.jpg" class="maximo"> </li>
+                                    <li> <strong>Marcas:</strong> <img class="modernito" 
+                                    ++ src="images/services/cableado-marca.jpg" class="maximo"> </li>
                                     <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
                                 </ul>
                             </div>                            

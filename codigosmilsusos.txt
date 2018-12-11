@@ -4,3 +4,14 @@
 									</a>
 									
 							  </li>	
+
+
+
+
+							  para menu compelo-------
+
+							  <li><a class="dropdown-item" href="upsynobrakes.php" target="_blank">Ups y No-breakes</a></li>
+								<li><a class="dropdown-item" href="workstations.php" target="_blank">Work Station</a></li>
+								<li><a class="dropdown-item" href="sistemaspacienteenfermera.php" target="_blank">Sistemas Paciente- Enfermera</a></li>
+								<li><a class="dropdown-item" href="mobiliario.php" target="_blank">Equipo médico</a></li>
+								<li><a class="dropdown-item" href="carrosdecomputo.php" target="_blank">Rayos ultravioleta</a></li>

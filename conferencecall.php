@@ -43,6 +43,7 @@
   <body>
   
    <!-- Preloader -->
+  
     <div id="fakeloader"></div>
 	
 	<?php include 'header.html'; ?>
@@ -70,14 +71,19 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="project-img">
-                                <img src="images/member/team4.jpg" alt="Logo"> 
+                                
+
                                     <div class="footer-info-right">
-                                        <ul>
-                                            <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>										
+                                        <ul><h1>Conference call</h1>
+                                       									
                                             <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>											
-                                            <li><a href="#"> <i class="fa fa-google"></i> </a></li>									
-                                            <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>											
-                                        </ul>					
+                                            <li><a href="#"> <i class="fa fa-mail-forward"></i> </a></li>									
+                                           
+                                            										
+                                        </ul>
+                                        
+                                        <img  class="modernito" src="images/products/yeahlink.jpg" alt="Marca"> 
+                                     				
 						            </div>
                             </div> 
                         </div> 
@@ -86,7 +92,7 @@
                                 <ul>
                                     <li> </li>                                
                                     <li> Gracias a esta tecnología, además de establecer llamadas desde aparatos telefónicos, también en una múltiple diversidad de dispositivos con acceso a internet o una red: PC´s, Laptops, Tabletas, Smartphones, entre otros. </li>
-                                    <li>  <img src="images/products/conference-call.jpg" alt="Msrca">  </li>
+                                    <li>  <img src="images/products/telefoniaip.jpg" alt="Msrca">  </li>
                                     
                                     
                                     

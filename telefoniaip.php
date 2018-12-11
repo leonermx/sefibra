@@ -49,7 +49,7 @@
      
 	<div class="business-banner">           			
         <div class="hvrbox">
-            <img src="images/slider-18.png" alt="Mountains" class="hvrbox-layer_bottom">
+            <img src="images/slider-24.jpg" alt="Mountains" class="hvrbox-layer_bottom">
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
@@ -81,7 +81,7 @@
                                             										
                                         </ul>
                                         
-                                        <img  src="images/products/yeahlink.jpg" alt="Marca"> 
+                                        <img  class="modernito" src="images/products/yeahlink.jpg" alt="Marca"> 
                                      				
 						            </div>
                             </div> 

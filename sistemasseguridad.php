@@ -67,29 +67,42 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="row">
+                <div class="row">
                         <div class="col-md-4">
                             <div class="project-img">
-                                <img src="images/member/team4.jpg" alt="Logo"> 
+                                
+
                                     <div class="footer-info-right">
-                                        <ul>
-                                            <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>										
+                                        <ul><h1>Sistemas de seguridad</h1>
+                                       									
                                             <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>											
-                                            <li><a href="#"> <i class="fa fa-google"></i> </a></li>									
-                                            <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>											
-                                        </ul>					
+                                            <li><a href="#"> <i class="fa fa-mail-forward"></i> </a></li>									
+                                           
+                                            										
+                                        </ul>
+                                        
+                                        <img  class="modernito" src="images/products/axis.jpg" alt="Marca"> 
+                                     				
 						            </div>
                             </div> 
                         </div> 
                         <div class="col-md-8">
                             <div class="project-quick-info">
                                 <ul>
-                                    <li> <strong>Michale John</strong><br>Finance Advisor of Consuma Ltd  </li>                                
-                                    <li> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. </li>
-                                    <li> <strong>Email:</strong> <span> Michale.John@email.com </span> </li>
+                                    <li> </li>                                
+                                    <li>
+
+Protege la vida y monitorea a grandes distancias.
+Muestra dónde y cuándo está ocurriendo un problema.
+Monitorea y graba en tiempo real intrusos internos y/o externos.
+Observa áreas de trabajo, previene errores e impide ocurrencias dantescas.
+Cámaras para cada necesidad: de observación y/o identificación, de día, de noche, en obscuridad etc.
+Cámaras de visión angular hasta de 180º o 360º.
+Domos, convencionales, visibles e invisibles.
+Significativos eventos pueden ser grabados integrando el CCTV con alarmas de sensores.</li>
+                                    <li>  <img src="images/products/seguridad.jpg" alt="Msrca">  </li>
                                     
-                                    <li> <strong>Contact:</strong> <span> +01 234 567 789 </span> </li>
-                                    <li> <strong>Blog:</strong> <span> <a href="#">www.michelblog.com </a></span> </li>
+                                    
                                     
                                 </ul>
                             </div>                            

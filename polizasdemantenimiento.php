@@ -53,7 +53,7 @@
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
-                        <h3>Servicios Integrales</h3>
+                        <h3>Polizas de mantenimiento</h3>
                         
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="project-img">
-                                <img src="images/bg-3.jpg" alt="Logo"> 
+                                <img src="images/services/polizas.jpg" alt="Logo"> 
                             </div> 
                         </div> 
                         <div class="col-md-4">
@@ -78,7 +78,7 @@
                                 <ul>
                                     <li> <strong>Materiales:</strong> <span> Material</span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <span> <a href="#">Fibroin </a></span> </li>
+                                    
                                     <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
                                 </ul>
                             </div>                            
@@ -96,29 +96,11 @@
                         <div class="col-md-12">
                             <div class="project-details">                                               
                                 <h2>Detalles</h2>                        
-                                <p>It is a long established fact that a reader will be distracted by the readable content of page when looking atits layout. The point of using Lorem Ipsum is that it has more-or-less normal distribution of letters,opposed tousing 'Contenthp here, content here', making it look like readable English. Many desktop publishing packages and web page editorskp now. </p>
+                                <p>Estos servicios consisten en el análisis técnico exhaustivo para implementar, ampliar o adecuar las redes de trabajo y aplicaciones para las organizaciones para poder llevar a cabo con precisión una integración de servicios y/o aplicaciones particulares del usuario final. </p>
                             </div>  
                         </div> 
-                        <div class="col-md-6">
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                 
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">				           		                      
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                   
-                                </ul>
-                            </div>
-                        </div>
+                       
+                        
                     </div>
                     
                 </div>

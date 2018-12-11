@@ -70,7 +70,7 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="project-img">
-                                <img src="images/bg-3.jpg" alt="Logo"> 
+                                <img src="images/services/suitchin.jpg" alt="Logo"> 
                             </div> 
                         </div> 
                         <div class="col-md-4">
@@ -78,47 +78,34 @@
                                 <ul>
                                     <li> <strong>Materiales:</strong> <span> Material</span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <span> <a href="#">Fibroin </a></span> </li>
+                                    <li> <strong>Marcas:</strong> <img class="modernito" 
+                                    ++ src="images/services/cisco.jpg" class="maximo"> </li>
                                     <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
                                 </ul>
                             </div>                            
-                        </div>       
+                        </div>   
                         
-                        
- 
-                    
-                      
-                        
-                        
+
                         
                         <div class="padding-top-large"></div>
                         
                         <div class="col-md-12">
                             <div class="project-details">                                               
                                 <h2>Detalles</h2>                        
-                                <p>It is a long established fact that a reader will be distracted by the readable content of page when looking atits layout. The point of using Lorem Ipsum is that it has more-or-less normal distribution of letters,opposed tousing 'Contenthp here, content here', making it look like readable English. Many desktop publishing packages and web page editorskp now. </p>
+                                <p>El éxito del diseño de una red, es su habilidad para proporcionar una satisfactoria interacción entre cliente/servidor, pues los usuarios juzgan la red por la rapidez de obtener un prompty la confiabilidad del servicio. </p>
                             </div>  
                         </div> 
                         <div class="col-md-6">
                             <div class="mission-right">
                                 <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                 
+										<li>Análisis de Tráfico y consumo de ancho de banda por aplicativo. </li>                                  
+										<li>Monitoreo de dispositivos de Red. Optimización de Ancho de Banda y Balanceo de carga en enlaces WAN.</li>                                  
+										<li>Implementación de LAN Switching y Routing.</li>                                  
+										<li>Implementación de Telefonía IP, Call Managers, Gateways SIP, Call Centers.</li>                                 
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6">				           		                      
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                   
-                                </ul>
-                            </div>
-                        </div>
+                       
                     </div>
                     
                 </div>

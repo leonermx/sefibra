@@ -76,10 +76,10 @@
                         <div class="col-md-4">
                             <div class="project-quick-info">
                                 <ul>
-                                    <li> <strong>Materiales:</strong> <span> Material</span> </li>
+                                    <li> <strong>Materiales:</strong> <span> </span> </li>
                                    
-                                    <li> <strong>Marcas:</strong> <span> <a href="#">Fibroin </a></span> </li>
-                                    <li> <strong>Disponibilidad:</strong> <span> En Existencia </span> </li>
+                                    <li> <strong>Marcas:</strong> <span> <a href="#"></a></span> </li>
+                                    <li> <strong>Disponibilidad:</strong> <span> </span> </li>
                                 </ul>
                             </div>                            
                         </div>       
@@ -96,29 +96,13 @@
                         <div class="col-md-12">
                             <div class="project-details">                                               
                                 <h2>Detalles</h2>                        
-                                <p>It is a long established fact that a reader will be distracted by the readable content of page when looking atits layout. The point of using Lorem Ipsum is that it has more-or-less normal distribution of letters,opposed tousing 'Contenthp here, content here', making it look like readable English. Many desktop publishing packages and web page editorskp now. </p>
+                                <p>Estos servicios consisten en el análisis técnico exhaustivo para implementar, ampliar o adecuar las redes de trabajo y aplicaciones para las organizaciones para poder llevar a cabo con precisión una integración de servicios y/o aplicaciones particulares del usuario final. 
+
+Es importante contar con una entidad coordinara para conocer con precisión las necesidades del cliente para ofrecerle la mejor opción en cuanto a productos y servicios.</p>
                             </div>  
                         </div> 
-                        <div class="col-md-6">
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                 
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">				           		                      
-                            <div class="mission-right">
-                                <ul>
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                  
-										<li>Nulla semper varius lorem quis euismod. </li>                                  
-										<li>ingilla varius convallis ac, sagittis non lorem.</li>                                   
-                                </ul>
-                            </div>
-                        </div>
+                        
+                        
                     </div>
                     
                 </div>

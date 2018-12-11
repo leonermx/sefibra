@@ -55,25 +55,25 @@
                 <div class="col-md-4">
                     <div class="single-address text-center">
                         <i class="fa fa-map-marker"></i>
-                        <h4>Our Location</h4>
-                        <p>123 walton gorgia street,<br>west town hall, London, UK.</p>	                   
+                        <h4>Ubicación</h4>
+                        <p>Cerrada Juan Cordero 13 Col. San Juan Del. Benito Juárez, C.P. 03730, CDMX.</p>	                   
                     </div>   
                 </div>
                 <div class="col-md-4">
                     <div class="single-address text-center">
                         <i class="fa fa-phone"></i>
-                        <h4>Contact Us</h4>
-                        <p> Mobile: (00) 123 456 789 <br>
-                            Fax: (00) 123 456 789 <br>
+                        <h4>Llámanos</h4>
+                        <p> +52  (55) 5544-5836 <br>
+                         
                         </p>                  
                     </div>   
                 </div>
                 <div class="col-md-4">
                     <div class="single-address text-center">
                         <i class="fa fa-location-arrow"></i>
-                        <h4>Write Some Words</h4>
-                        <p> hello@edufair.com <br>
-                            support247@edufair.com <br>
+                        <h4>Envíanos un email</h4>
+                        <p> sistemaempresarialfibra@gmail.com<br>
+                          
                         </p>                   
                     </div>   
                 </div>   
@@ -88,9 +88,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="business-title-left">
-                        <h2>Feedback form</h2>
+                        <h2>Envíanos un mensaje</h2>
                         <span class="title-border-left"></span>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy <br> nibh euismod tincidunt ut laoreet dolore euismod magna.</p>
+                        <p>Para nosotros tu opinión es muy importante, estamos listos para atenderte</p>
                     </div>
                     
                 </div>
@@ -99,32 +99,32 @@
                        
                 <div class="col-md-6">                        
                   <div class="form-group">                        
-                    <input type="text" class="form-control" id="formGroupExampleInput1" placeholder="Your First Name">
+                    <input type="text" class="form-control" id="formGroupExampleInput1" placeholder="Nombre">
                   </div>
                 </div>
                 <div class="col-md-6">                        
                   <div class="form-group">
-                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Your last Name">
+                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Apellido">
                   </div>
                 </div>
                 <div class="col-md-6">                        
                   <div class="form-group">
-                    <input type="email" class="form-control" id="formGroupExampleInput3" placeholder="Your Email">
+                    <input type="email" class="form-control" id="formGroupExampleInput3" placeholder="Email">
                   </div>
                 </div>
                 <div class="col-md-6">                        
                   <div class="form-group">
-                    <input type="number" class="form-control" id="formGroupExampleInput4" placeholder="Phone Number">
+                    <input type="number" class="form-control" id="formGroupExampleInput4" placeholder="Número de teléfono">
                   </div>
                 </div>
                 <div class="col-md-12">
                     <div class="form-group">
-                      <textarea class="form-control" id="exampleFormControlTextarea15" rows="3" placeholder="Your Message"></textarea>
+                      <textarea class="form-control" id="exampleFormControlTextarea15" rows="3" placeholder="Tu mensaje"></textarea>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="form-group">
-                      <a href="#" class="btn bussiness-btn-larg">Send Message</a>
+                      <a href="#" class="btn bussiness-btn-larg">Enviar mensaje</a>
                     </div>
                 </div>
                        

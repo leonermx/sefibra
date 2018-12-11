@@ -100,7 +100,7 @@
                                 <div class="media">
                                   <img class="mr-3" src="images/icon/leader.png" alt="Generic placeholder image">
                                   <div class="media-body">
-                                    <h5 class="mt-0">Business with Thought Leadership</h5>
+                                    <h5 class="mt-0">Crecimiento mutuo</h5>
                                   </div>
                                 </div>	
                             </div>	
@@ -110,7 +110,7 @@
                                 <div class="media">
                                   <img class="mr-3" src="images/icon/world-map.png" alt="Generic placeholder image">
                                   <div class="media-body">
-                                    <h5 class="mt-0">Global consumer insights  business</h5>
+                                    <h5 class="mt-0">Soluciones globales</h5>
                                   </div>
                                 </div>	
                             </div>	
@@ -120,7 +120,7 @@
                                 <div class="media">
                                   <img class="mr-3" src="images/icon/money.png" alt="Generic placeholder image">
                                   <div class="media-body">
-                                    <h5 class="mt-0">Segment of focused top investors </h5>
+                                    <h5 class="mt-0">Mejor rendimiento de tu inversión</h5>
                                   </div>
                                 </div>	
                             </div>	
@@ -238,7 +238,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><a href="redesymantenimiento.php"><i class="fa fa-share"></i></a></span>
+								  <span class="animatedhover pulse"><a href="redesinalambricas.php"><i class="fa fa-share"></i></a></span>
 								  <div class="media-body">
 									<h2>REDES Y TELECOMUNICACIONES</h2>
 									<p>Solución idónea para movilidad, ya que reduce los costos de cableado y alcanza velocidades de transmisión similares al par trenzado y fibra óptica.</p>
@@ -247,7 +247,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><a href="datacenteryseguridad.php"><i class="fa fa-lock"></i></a></span>
+								  <span class="animatedhover pulse"><a href="datacenter.php"><i class="fa fa-lock"></i></a></span>
 								  <div class="media-body">
 									<h2>DATA CENTER Y SEGURIDAD</h2>
 									<p>Contamos con servidores de alto rendimiento en las marcas más reconocidas en el mercado y un staff de técnicos calificados en las plataformas más usadas en la industria de TI.</p>
@@ -256,7 +256,7 @@
 							</div>	
 							<div class="single-app-present">
 								<div class="media">
-								  <span class="animatedhover pulse"><a href="mantenimientoyacondicionamiento.php"><i class="fa fa-wrench"></i></a></span>
+								  <span class="animatedhover pulse"><a href="polizasdemantenimiento.php"><i class="fa fa-wrench"></i></a></span>
 								  <div class="media-body">
 									<h2>MANTENIMIENTO Y ACONDICIONAMIENTO</h2>
 									<p>Nos especializamos en proyectos de TI alineados con sus necesidades específicas, comenzando desde la detección de sus objetivos de negocio, hasta la operación total con niveles de servicio.</p>
@@ -308,7 +308,7 @@
 							  <div class="media-body">
 								<h5>CONFERENCE CALL</h5>
 								<p>Videoconferencia, Teleconferencia y Video Streaming.</p>
-								<a href="conferencecall.php">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="videoconferencias.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -338,7 +338,7 @@
 							  <div class="media-body">
 								<h5>SISTEMAS DE ENTRETENIMIENTO</h5>
 								<p>Audio, Video, Energía e Iluminación.</p>
-								<a href="sistemasentretenimiento.php">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="video.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -353,7 +353,7 @@
 							  <div class="media-body">
 								<h5>COMUNICACIONES ESPECIALIZADAS</h5>
 								<p>Sistemas satelitales, torres VHF, UHF y Grounding.</p>
-								<a href="comunicacionesespecializadas.php">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="vhfuhf.php">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -383,7 +383,7 @@
 							  <div class="media-body">
 								<h5>MOBILIARIO Y EQUIPO MÉDICO</h5>
 								<p>Sistema paciente-enfermera, Work stations, Carritos para hospital.</p>
-								<a href="mobiliario.php">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
@@ -398,7 +398,7 @@
 							  <div class="media-body">
 								<h5>SISTEMAS DE SEGURIDAD Y CONTROL DE ACCESO</h5>
 								<p>Vigilancia, control de acceso..</p>
-								<a href="controldeacceso.php">Leer más <i class="fa fa-angle-right"></i></a>
+								<a href="">Leer más <i class="fa fa-angle-right"></i></a>
 							  </div>
 							</div>	
 						</div>
